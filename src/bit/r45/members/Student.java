@@ -10,7 +10,7 @@ public class Student {
 	
 	/* 필드 */
 	int age;
-	int color; // 1: red, 2: blue, 3: balck
+	int color; // 1: red, 2: blue, 3: bla ck
 	
 	/* run()이라는 메서드 */
 	public void run() {
